@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>GeoHacks</h1>
+<h2>Make a tool to help with geocaching, get a year of geocaching premium!</h2>
+<h3><em>Coming soon</em></h3>
+
